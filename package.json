@@ -1,0 +1,13 @@
+{
+	"name": "balanced-bst",
+	"description": "A Balanced Binary Search Tree implementation for The Odin Project",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"ts": "tsx"
+	},
+	"devDependencies": {
+		"tsx": "^4.22.4",
+		"typescript": "^5.9.3"
+	}
+}
